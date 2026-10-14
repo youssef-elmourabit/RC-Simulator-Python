@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+.vscode/
+.cache/
+*.egg-info/
+figures/**/*.png
+!figures/rc_charge_decharge.png
+figures/**/*.[cC][sS][vV]
+*.tmp
